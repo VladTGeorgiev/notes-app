@@ -6,7 +6,7 @@ A CLI notes app using Node.js
 
 # Technologies 
 
-Node.js v10.16.0 [[Node.js] (https://nodejs.org/)]<br/>
+Node.js v10.16.0 [Node.js] (https://nodejs.org/)]<br/>
 
 
 # Installation
@@ -25,8 +25,8 @@ Node.js v10.16.0 [[Node.js] (https://nodejs.org/)]<br/>
 
 ### NPM packages used
 
-yargs v14.2.0 [[yargs] (https://www.npmjs.com/package/yargs)]<br/>
-chalk v 2.4.2 [[chalk] (https://www.npmjs.com/package/chalk)]
+yargs v14.2.0 [yargs] (https://www.npmjs.com/package/yargs)]<br/>
+chalk v 2.4.2 [chalk] (https://www.npmjs.com/package/chalk)]
 
 ## Run the app in the development mode.<br />
 
